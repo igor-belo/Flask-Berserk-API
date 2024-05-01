@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nome": "Guts",
+        "descricao": "Guts \u00c3\u00a9 um guerreiro habilidoso e destemido, conhecido por sua for\u00c3\u00a7a sobre-humana e sua habilidade com a espada. Ele carrega consigo a Espada do Berserk, uma l\u00c3\u00a2mina maci\u00c3\u00a7a capaz de cortar at\u00c3\u00a9 mesmo os mais poderosos inimigos. Sua jornada \u00c3\u00a9 marcada por trag\u00c3\u00a9dias e desafios, e ele busca vingan\u00c3\u00a7a contra os dem\u00c3\u00b4nios que o assombram desde a inf\u00c3\u00a2ncia."
+    },
+    {
+        "id": 2,
+        "nome": "Griffith",
+        "descricao": "Griffith \u00c3\u00a9 o carism\u00c3\u00a1tico e ambicioso l\u00c3\u00adder do Bando do Falc\u00c3\u00a3o. Ele possui uma vis\u00c3\u00a3o grandiosa e uma determina\u00c3\u00a7\u00c3\u00a3o implac\u00c3\u00a1vel para alcan\u00c3\u00a7ar seus objetivos, levando seu grupo a vit\u00c3\u00b3rias impressionantes em batalha. Sua personalidade magn\u00c3\u00a9tica atrai seguidores leais, mas sua busca pelo poder pode levar a consequ\u00c3\u00aancias sombrias."
+    },
+    {
+        "id": 3,
+        "nome": "Casca",
+        "descricao": "Casca é uma guerreira valente e leal, que já foi comandante do Bando do Falcão. Ela é conhecida por sua habilidade excepcional em combate e por sua forte determinação. Após eventos traumáticos, sua mente está fragmentada e ela luta para se manter sã em um mundo repleto de perigos e horrores."
+    },
+    {
+        "id": 4,
+        "nome": "Judeau",
+        "descricao": "Judeau \u00c3\u00a9 um membro habilidoso do Bando do Falc\u00c3\u00a3o, conhecido por sua destreza com a espada e sua intelig\u00c3\u00aancia estrat\u00c3\u00a9gica. Ele \u00c3\u00a9 um amigo leal de Guts e Griffith, contribuindo para o sucesso do grupo com suas habilidades \u00c3\u00banicas. Sua morte precoce deixa uma marca duradoura no cora\u00c3\u00a7\u00c3\u00a3o de seus companheiros."
+    },
+    {
+        "id": 5,
+        "nome": "Pippin",
+        "descricao": "Pippin \u00c3\u00a9 um guerreiro gigante e imponente, conhecido por sua for\u00c3\u00a7a bruta e lealdade inabal\u00c3\u00a1vel ao Bando do Falc\u00c3\u00a3o. Apesar de sua apar\u00c3\u00aancia intimidante, ele possui um cora\u00c3\u00a7\u00c3\u00a3o gentil e protege seus amigos com todo o seu vigor. Sua presen\u00c3\u00a7a tranquilizadora traz seguran\u00c3\u00a7a ao grupo em momentos de perigo."
+    },
+    {
+        "id": 6,
+        "nome": "Corkus",
+        "descricao": "Corkus \u00c3\u00a9 um membro pol\u00c3\u00aamico do Bando do Falc\u00c3\u00a3o, conhecido por sua l\u00c3\u00adngua afiada e atitudes arrogantes. Ele muitas vezes entra em conflito com seus camaradas, mas sua bravura em batalha \u00c3\u00a9 ineg\u00c3\u00a1vel. Por tr\u00c3\u00a1s de sua fachada de bravata, ele esconde seus pr\u00c3\u00b3prios medos e inseguran\u00c3\u00a7as."
+    },
+    {
+        "id": 7,
+        "nome": "Rickert",
+        "descricao": "Rickert \u00c3\u00a9 o mais jovem e mais sensato membro do Bando do Falc\u00c3\u00a3o. Ele \u00c3\u00a9 habilidoso em mec\u00c3\u00a2nica e engenharia, e sua intelig\u00c3\u00aancia \u00c3\u00a9 uma grande contribui\u00c3\u00a7\u00c3\u00a3o para o grupo. Ap\u00c3\u00b3s eventos traum\u00c3\u00a1ticos, Rickert parte em sua pr\u00c3\u00b3pria jornada, buscando um prop\u00c3\u00b3sito al\u00c3\u00a9m da guerra e da destrui\u00c3\u00a7\u00c3\u00a3o."
+    },
+    {
+        "id": 8,
+        "nome": "Farnese",
+        "descricao": "Farnese \u00c3\u00a9 uma nobre atormentada por suas pr\u00c3\u00b3prias fraquezas e pela opress\u00c3\u00a3o de sua fam\u00c3\u00adlia. Ela se junta ao Bando do Falc\u00c3\u00a3o em busca de reden\u00c3\u00a7\u00c3\u00a3o e de um prop\u00c3\u00b3sito maior em sua vida, enfrentando os horrores do mundo ao lado de seus novos companheiros. Sua jornada de autodescoberta \u00c3\u00a9 marcada por desafios e sacrif\u00c3\u00adcios."
+    },
+    {
+        "id": 9,
+        "nome": "Serpicco",
+        "descricao": "Serpicco \u00c3\u00a9 um jovem e talentoso feiticeiro que se une ao Bando do Falc\u00c3\u00a3o em busca de conhecimento e poder. Ele \u00c3\u00a9 habilidoso em magia negra e possui uma mente afiada, mas sua lealdade \u00c3\u00a9 frequentemente testada pelos eventos sombrios que cercam o grupo. Sua jornada o leva a confrontar seus pr\u00c3\u00b3prios dem\u00c3\u00b4nios internos."
+    },
+    {
+        "id": 10,
+        "nome": "Nosferatu Zodd",
+        "descricao": "Nosferatu Zodd \u00c3\u00a9 um poderoso Ap\u00c3\u00b3stolo, conhecido como o 'Imortal'. Ele \u00c3\u00a9 um guerreiro feroz e selvagem, cujo \u00c3\u00banico prop\u00c3\u00b3sito \u00c3\u00a9 buscar desafios cada vez mais dif\u00c3\u00adceis em combate. Apesar de sua natureza violenta, Zodd possui um c\u00c3\u00b3digo de honra pr\u00c3\u00b3prio e respeita advers\u00c3\u00a1rios dignos. Sua presen\u00c3\u00a7a \u00c3\u00a9 temida e reverenciada pelos humanos e dem\u00c3\u00b4nios."
+    },
+    {
+        "id": 11,
+        "nome": "Wyald",
+        "descricao": "Wyald \u00c3\u00a9 um Ap\u00c3\u00b3stolo brutal e s\u00c3\u00a1dico, conhecido por sua crueldade e amor pelo caos. Ele serve como um dos l\u00c3\u00adderes da M\u00c3\u00a3o de Deus, espalhando destrui\u00c3\u00a7\u00c3\u00a3o e terror por onde passa. Sua for\u00c3\u00a7a descomunal e sua natureza imprevis\u00c3\u00advel o tornam um advers\u00c3\u00a1rio formid\u00c3\u00a1vel para qualquer um que se atreva a cruzar seu caminho."
+    },
+    {
+        "id": 12,
+        "nome": "Femto",
+        "descricao": "Femto \u00c3\u00a9 o quinto membro do God Hand, os cinco seres mais poderosos da M\u00c3\u00a3o de Deus. Anteriormente conhecido como Griffith, sua ascens\u00c3\u00a3o ao status de membro do God Hand marca uma virada tr\u00c3\u00a1gica na hist\u00c3\u00b3ria de Berserk. Ele \u00c3\u00a9 um ser transcendental, cujo poder \u00c3\u00a9 incompar\u00c3\u00a1vel e cujas inten\u00c3\u00a7\u00c3\u00b5es s\u00c3\u00a3o enigm\u00c3\u00a1ticas e aterrorizantes."
+    },
+    {
+        "id": 13,
+        "nome": "Void",
+        "descricao": "Void \u00c3\u00a9 um dos cinco membros do God Hand, os governantes supremos da M\u00c3\u00a3o de Deus. Ele \u00c3\u00a9 um ser misterioso e imponente, cuja presen\u00c3\u00a7a evoca temor e rever\u00c3\u00aancia. Sua sabedoria e conhecimento s\u00c3\u00a3o vastos, e sua influ\u00c3\u00aancia se estende por todo o reino dos dem\u00c3\u00b4nios. Ele \u00c3\u00a9 um arauto do destino e um catalisador para eventos catacl\u00c3\u00adsmicos."
+    },
+    {
+        "id": 14,
+        "nome": "Slan",
+        "descricao": "Slan \u00c3\u00a9 uma das cinco entidades conhecidas como o God Hand, governantes supremos da M\u00c3\u00a3o de Deus. Ela \u00c3\u00a9 a encarna\u00c3\u00a7\u00c3\u00a3o da lux\u00c3\u00baria e do prazer, e sua presen\u00c3\u00a7a \u00c3\u00a9 acompanhada por um aura de sedu\u00c3\u00a7\u00c3\u00a3o e deprava\u00c3\u00a7\u00c3\u00a3o. Slan \u00c3\u00a9 uma entidade hedonista que se deleita com a dor e o sofrimento dos seres humanos, manipulando-os para satisfazer seus desejos mais obscuros."
+    },
+    {
+        "id": 15,
+        "nome": "Ubik",
+        "descricao": "Ubik \u00c3\u00a9 um dos cinco membros do God Hand, os governantes supremos da M\u00c3\u00a3o de Deus. Ele \u00c3\u00a9 um ser astuto e manipulador, cujas habilidades incluem a distor\u00c3\u00a7\u00c3\u00a3o da realidade e a manipula\u00c3\u00a7\u00c3\u00a3o das mentes dos mortais. Ubik \u00c3\u00a9 um mestre em semear a disc\u00c3\u00b3rdia e o caos, servindo como um agente da vontade dos deuses demon\u00c3\u00adacos."
+    },
+    {
+        "id": 16,
+        "nome": "Conrad",
+        "descricao": "Conrad \u00c3\u00a9 um dos cinco membros do God Hand, os seres mais poderosos da M\u00c3\u00a3o de Deus. Ele \u00c3\u00a9 um ser enigm\u00c3\u00a1tico, cujas habilidades est\u00c3\u00a3o ligadas \u00c3\u00a0 escurid\u00c3\u00a3o e \u00c3\u00a0 manipula\u00c3\u00a7\u00c3\u00a3o do espa\u00c3\u00a7o-tempo. Conrad \u00c3\u00a9 um observador silencioso dos eventos que se desenrolam no mundo dos mortais, aguardando o momento certo para intervir e moldar o curso do destino."
+    },
+    {
+        "id": 17,
+        "nome": "Grunbeld",
+        "descricao": "Grunbeld \u00c3\u00a9 um poderoso Ap\u00c3\u00b3stolo, conhecido por sua for\u00c3\u00a7a imensa e sua armadura invulner\u00c3\u00a1vel. Ele \u00c3\u00a9 um guerreiro leal \u00c3\u00a0 M\u00c3\u00a3o de Deus, dedicado a espalhar o terror e a destrui\u00c3\u00a7\u00c3\u00a3o em nome de seus mestres demon\u00c3\u00adacos. Sua presen\u00c3\u00a7a imponente e sua ferocidade no campo de batalha o tornam um advers\u00c3\u00a1rio tem\u00c3\u00advel para qualquer um que ouse desafi\u00c3\u00a1-lo."
+    },
+    {
+        "id": 18,
+        "nome": "Locus",
+        "descricao": "Locus \u00c3\u00a9 um Ap\u00c3\u00b3stolo de estatura nobre e presen\u00c3\u00a7a majestosa, conhecido por sua devo\u00c3\u00a7\u00c3\u00a3o fan\u00c3\u00a1tica \u00c3\u00a0 M\u00c3\u00a3o de Deus. Ele \u00c3\u00a9 um guerreiro disciplinado e calculista, cujas habilidades em combate s\u00c3\u00a3o igualadas apenas por sua lealdade inabal\u00c3\u00a1vel aos seus mestres demon\u00c3\u00adacos. Locus \u00c3\u00a9 uma figura imponente no campo de batalha, inspirando temor e respeito em seus aliados e inimigos."
+    },
+    {
+        "id": 19,
+        "nome": "Rakshas",
+        "descricao": "Rakshas \u00c3\u00a9 um Ap\u00c3\u00b3stolo astuto e manipulador, conhecido por sua natureza trai\u00c3\u00a7oeira e sua habilidade em esgueirar-se nas sombras. Ele \u00c3\u00a9 um espi\u00c3\u00a3o habilidoso e assassino impiedoso, cujas fa\u00c3\u00a7anhas incluem o uso de disfarces e enganos para alcan\u00c3\u00a7ar seus objetivos. Rakshas \u00c3\u00a9 uma amea\u00c3\u00a7a invis\u00c3\u00advel, sempre \u00c3\u00a0 espreita nas sombras, esperando o momento certo para agir."
+    },
+    {
+        "id": 20,
+        "nome": "Nosferatu Zodd",
+        "descricao": "Nosferatu Zodd \u00c3\u00a9 um poderoso Ap\u00c3\u00b3stolo, conhecido como o 'Imortal'. Ele \u00c3\u00a9 um guerreiro feroz e selvagem, cujo \u00c3\u00banico prop\u00c3\u00b3sito \u00c3\u00a9 buscar desafios cada vez mais dif\u00c3\u00adceis em combate. Apesar de sua natureza violenta, Zodd possui um c\u00c3\u00b3digo de honra pr\u00c3\u00b3prio e respeita advers\u00c3\u00a1rios dignos. Sua presen\u00c3\u00a7a \u00c3\u00a9 temida e reverenciada pelos humanos e dem\u00c3\u00b4nios."
+    }
+]
