@@ -5,8 +5,13 @@ app = Flask(__name__)
 
 # Função para carregar os dados dos personagens do arquivo personagens.json
 def carregar_personagens():
-    with open('personagens.json', 'r') as file:
+    with open('personagens.json', 'r', encoding='utf-8') as file:
         return json.load(file)
+
+# Função para salvar os dados dos personagens no arquivo personagens.json
+def salvar_personagens(personagens):
+    with open('personagens.json', 'w', encoding='utf-8') as file:
+        json.dump(personagens, file, indent=4, ensure_ascii=False)
 
 # Carregar os personagens ao iniciar a aplicação
 personagens = carregar_personagens()
@@ -18,10 +23,10 @@ def manipular_personagens():
         return jsonify(personagens)
     elif request.method == 'POST':
         novo_personagem = request.json
+        if 'id' not in novo_personagem or 'nome' not in novo_personagem or 'descricao' not in novo_personagem:
+            return jsonify({"mensagem": "Campos 'id', 'nome' e 'descricao' são obrigatórios"}), 400
         personagens.append(novo_personagem)
-        # Atualizar o arquivo JSON com o novo personagem
-        with open('personagens.json', 'w') as file:
-            json.dump(personagens, file, indent=4)
+        salvar_personagens(personagens)
         return jsonify({"mensagem": "Personagem criado com sucesso"}), 201
 
 # Rota para visualizar, atualizar ou excluir um personagem específico
@@ -33,23 +38,20 @@ def manipular_personagem(personagem_id):
                 return jsonify(personagem)
         return jsonify({"mensagem": "Personagem não encontrado"}), 404
     elif request.method == 'PUT':
+        dados_atualizados = request.json
         for personagem in personagens:
             if personagem['id'] == personagem_id:
-                dados_atualizados = request.json
                 personagem.update(dados_atualizados)
-                # Atualizar o arquivo JSON com os dados atualizados
-                with open('personagens.json', 'w') as file:
-                    json.dump(personagens, file, indent=4)
+                salvar_personagens(personagens)
                 return jsonify({"mensagem": "Personagem atualizado com sucesso"})
         return jsonify({"mensagem": "Personagem não encontrado"}), 404
     elif request.method == 'DELETE':
         for index, personagem in enumerate(personagens):
             if personagem['id'] == personagem_id:
                 del personagens[index]
-                # Atualizar o arquivo JSON sem o personagem excluído
-                with open('personagens.json', 'w') as file:
-                    json.dump(personagens, file, indent=4)
+                salvar_personagens(personagens)
                 return jsonify({"mensagem": "Personagem excluído com sucesso"})
         return jsonify({"mensagem": "Personagem não encontrado"}), 404
 
-app.run(port=5000, host='localhost', debug=True)
+if __name__ == '__main__':
+    app.run(port=5000, host='localhost', debug=True)
