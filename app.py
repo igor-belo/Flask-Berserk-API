@@ -23,8 +23,8 @@ def manipular_personagens():
         return jsonify(personagens)
     elif request.method == 'POST':
         novo_personagem = request.json
-        if 'id' not in novo_personagem or 'nome' not in novo_personagem or 'descricao' not in novo_personagem:
-            return jsonify({"mensagem": "Campos 'id', 'nome' e 'descricao' são obrigatórios"}), 400
+        if 'id' not in novo_personagem or 'name' not in novo_personagem or 'description' not in novo_personagem:
+            return jsonify({"mensagem": "Campos 'id', 'name' e 'description' são obrigatórios"}), 400
         personagens.append(novo_personagem)
         salvar_personagens(personagens)
         return jsonify({"mensagem": "Personagem criado com sucesso"}), 201

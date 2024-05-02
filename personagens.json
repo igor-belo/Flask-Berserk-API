@@ -1,102 +1,102 @@
 [
     {
         "id": 1,
-        "nome": "Guts",
-        "descricao": "Guts é um guerreiro habilidoso e destemido, conhecido por sua força sobre-humana e sua habilidade com a espada. Ele carrega consigo a Espada do Berserk, uma lâmina maciça capaz de cortar até mesmo os mais poderosos inimigos. Sua jornada é marcada por tragédias e desafios, e ele busca vingança contra os demônios que o assombram desde a infância."
+        "name": "Guts",
+        "description": "Guts é um guerreiro habilidoso e destemido, conhecido por sua força sobre-humana e sua habilidade com a espada. Ele carrega consigo a Espada do Berserk, uma lâmina maciça capaz de cortar até mesmo os mais poderosos inimigos. Sua jornada é marcada por tragédias e desafios, e ele busca vingança contra os demônios que o assombram desde a infância."
     },
     {
         "id": 2,
-        "nome": "Griffith",
-        "descricao": "Griffith é o carismático e ambicioso líder do Bando do Falcão. Ele possui uma visão grandiosa e uma determinação implacável para alcançar seus objetivos, levando seu grupo a vitórias impressionantes em batalha. Sua personalidade magnética atrai seguidores leais, mas sua busca pelo poder pode levar a consequências sombrias."
+        "name": "Griffith",
+        "description": "Griffith é o carismático e ambicioso líder do Bando do Falcão. Ele possui uma visão grandiosa e uma determinação implacável para alcançar seus objetivos, levando seu grupo a vitórias impressionantes em batalha. Sua personalidade magnética atrai seguidores leais, mas sua busca pelo poder pode levar a consequências sombrias."
     },
     {
         "id": 3,
-        "nome": "Casca",
-        "descricao": "Casca é uma guerreira valente e leal, que já foi comandante do Bando do Falcão. Ela é conhecida por sua habilidade excepcional em combate e por sua forte determinação. Após eventos traumáticos, sua mente está fragmentada e ela luta para se manter sã em um mundo repleto de perigos e horrores."
+        "name": "Casca",
+        "description": "Casca é uma guerreira valente e leal, que já foi comandante do Bando do Falcão. Ela é conhecida por sua habilidade excepcional em combate e por sua forte determinação. Após eventos traumáticos, sua mente está fragmentada e ela luta para se manter sã em um mundo repleto de perigos e horrores."
     },
     {
         "id": 4,
-        "nome": "Judeau",
-        "descricao": "Judeau é um membro habilidoso do Bando do Falcão, conhecido por sua destreza com a espada e sua inteligência estratégica. Ele é um amigo leal de Guts e Griffith, contribuindo para o sucesso do grupo com suas habilidades únicas. Sua morte precoce deixa uma marca duradoura no coração de seus companheiros."
+        "name": "Judeau",
+        "description": "Judeau é um membro habilidoso do Bando do Falcão, conhecido por sua destreza com a espada e sua inteligência estratégica. Ele é um amigo leal de Guts e Griffith, contribuindo para o sucesso do grupo com suas habilidades únicas. Sua morte precoce deixa uma marca duradoura no coração de seus companheiros."
     },
     {
         "id": 5,
-        "nome": "Pippin",
-        "descricao": "Pippin é um guerreiro gigante e imponente, conhecido por sua força bruta e lealdade inabalável ao Bando do Falcão. Apesar de sua aparência intimidante, ele possui um coração gentil e protege seus amigos com todo o seu vigor. Sua presença tranquilizadora traz segurança ao grupo em momentos de perigo."
+        "name": "Pippin",
+        "description": "Pippin é um guerreiro gigante e imponente, conhecido por sua força bruta e lealdade inabalável ao Bando do Falcão. Apesar de sua aparência intimidante, ele possui um coração gentil e protege seus amigos com todo o seu vigor. Sua presença tranquilizadora traz segurança ao grupo em momentos de perigo."
     },
     {
         "id": 6,
-        "nome": "Corkus",
-        "descricao": "Corkus é um membro polêmico do Bando do Falcão, conhecido por sua língua afiada e atitudes arrogantes. Ele muitas vezes entra em conflito com seus camaradas, mas sua bravura em batalha é inegável. Por trás de sua fachada de bravata, ele esconde seus próprios medos e inseguranças."
+        "name": "Corkus",
+        "description": "Corkus é um membro polêmico do Bando do Falcão, conhecido por sua língua afiada e atitudes arrogantes. Ele muitas vezes entra em conflito com seus camaradas, mas sua bravura em batalha é inegável. Por trás de sua fachada de bravata, ele esconde seus próprios medos e inseguranças."
     },
     {
         "id": 7,
-        "nome": "Rickert",
-        "descricao": "Rickert é o mais jovem e mais sensato membro do Bando do Falcão. Ele é habilidoso em mecânica e engenharia, e sua inteligência é uma grande contribuição para o grupo. Após eventos traumáticos, Rickert parte em sua própria jornada, buscando um propósito além da guerra e da destruição."
+        "name": "Rickert",
+        "description": "Rickert é o mais jovem e mais sensato membro do Bando do Falcão. Ele é habilidoso em mecânica e engenharia, e sua inteligência é uma grande contribuição para o grupo. Após eventos traumáticos, Rickert parte em sua própria jornada, buscando um propósito além da guerra e da destruição."
     },
     {
         "id": 8,
-        "nome": "Farnese",
-        "descricao": "Farnese é uma nobre atormentada por suas próprias fraquezas e pela opressão de sua família. Ela se junta ao Bando do Falcão em busca de redenção e de um propósito maior em sua vida, enfrentando os horrores do mundo ao lado de seus novos companheiros. Sua jornada de autodescoberta é marcada por desafios e sacrifícios."
+        "name": "Farnese",
+        "description": "Farnese é uma nobre atormentada por suas próprias fraquezas e pela opressão de sua família. Ela se junta ao Bando do Falcão em busca de redenção e de um propósito maior em sua vida, enfrentando os horrores do mundo ao lado de seus novos companheiros. Sua jornada de autodescoberta é marcada por desafios e sacrifícios."
     },
     {
         "id": 9,
-        "nome": "Serpicco",
-        "descricao": "Serpicco é um jovem e talentoso feiticeiro que se une ao Bando do Falcão em busca de conhecimento e poder. Ele é habilidoso em magia negra e possui uma mente afiada, mas sua lealdade é frequentemente testada pelos eventos sombrios que cercam o grupo. Sua jornada o leva a confrontar seus próprios demônios internos."
+        "name": "Serpicco",
+        "description": "Serpicco é um jovem e talentoso feiticeiro que se une ao Bando do Falcão em busca de conhecimento e poder. Ele é habilidoso em magia negra e possui uma mente afiada, mas sua lealdade é frequentemente testada pelos eventos sombrios que cercam o grupo. Sua jornada o leva a confrontar seus próprios demônios internos."
     },
     {
         "id": 10,
-        "nome": "Nosferatu Zodd",
-        "descricao": "Nosferatu Zodd é um poderoso Apóstolo, conhecido como o 'Imortal'. Ele é um guerreiro feroz e selvagem, cujo único propósito é buscar desafios cada vez mais difíceis em combate. Apesar de sua natureza violenta, Zodd possui um código de honra próprio e respeita adversários dignos. Sua presença é temida e reverenciada pelos humanos e demônios."
+        "name": "Nosferatu Zodd",
+        "description": "Nosferatu Zodd é um poderoso Apóstolo, conhecido como o 'Imortal'. Ele é um guerreiro feroz e selvagem, cujo único propósito é buscar desafios cada vez mais difíceis em combate. Apesar de sua natureza violenta, Zodd possui um código de honra próprio e respeita adversários dignos. Sua presença é temida e reverenciada pelos humanos e demônios."
     },
     {
         "id": 11,
-        "nome": "Wyald",
-        "descricao": "Wyald é um Apóstolo brutal e sádico, conhecido por sua crueldade e amor pelo caos. Ele serve como um dos líderes da Mão de Deus, espalhando destruição e terror por onde passa. Sua força descomunal e sua natureza imprevisível o tornam um adversário formidável para qualquer um que se atreva a cruzar seu caminho."
+        "name": "Wyald",
+        "description": "Wyald é um Apóstolo brutal e sádico, conhecido por sua crueldade e amor pelo caos. Ele serve como um dos líderes da Mão de Deus, espalhando destruição e terror por onde passa. Sua força descomunal e sua natureza imprevisível o tornam um adversário formidável para qualquer um que se atreva a cruzar seu caminho."
     },
     {
         "id": 12,
-        "nome": "Femto",
-        "descricao": "Femto é o quinto membro do God Hand, os cinco seres mais poderosos da Mão de Deus. Anteriormente conhecido como Griffith, sua ascensão ao status de membro do God Hand marca uma virada trágica na história de Berserk. Ele é um ser transcendental, cujo poder é incomparável e cujas intenções são enigmáticas e aterrorizantes."
+        "name": "Femto",
+        "description": "Femto é o quinto membro do God Hand, os cinco seres mais poderosos da Mão de Deus. Anteriormente conhecido como Griffith, sua ascensão ao status de membro do God Hand marca uma virada trágica na história de Berserk. Ele é um ser transcendental, cujo poder é incomparável e cujas intenções são enigmáticas e aterrorizantes."
     },
     {
         "id": 13,
-        "nome": "Void",
-        "descricao": "Void é um dos cinco membros do God Hand, os governantes supremos da Mão de Deus. Ele é um ser misterioso e imponente, cuja presença evoca temor e reverência. Sua sabedoria e conhecimento são vastos, e sua influência se estende por todo o reino dos demônios. Ele é um arauto do destino e um catalisador para eventos cataclísmicos."
+        "name": "Void",
+        "description": "Void é um dos cinco membros do God Hand, os governantes supremos da Mão de Deus. Ele é um ser misterioso e imponente, cuja presença evoca temor e reverência. Sua sabedoria e conhecimento são vastos, e sua influência se estende por todo o reino dos demônios. Ele é um arauto do destino e um catalisador para eventos cataclísmicos."
     },
     {
         "id": 14,
-        "nome": "Slan",
-        "descricao": "Slan é uma das cinco entidades conhecidas como o God Hand, governantes supremos da Mão de Deus. Ela é a encarnação da luxúria e do prazer, e sua presença é acompanhada por um aura de sedução e depravação. Slan é uma entidade hedonista que se deleita com a dor e o sofrimento dos seres humanos, manipulando-os para satisfazer seus desejos mais obscuros."
+        "name": "Slan",
+        "description": "Slan é uma das cinco entidades conhecidas como o God Hand, governantes supremos da Mão de Deus. Ela é a encarnação da luxúria e do prazer, e sua presença é acompanhada por um aura de sedução e depravação. Slan é uma entidade hedonista que se deleita com a dor e o sofrimento dos seres humanos, manipulando-os para satisfazer seus desejos mais obscuros."
     },
     {
         "id": 15,
-        "nome": "Ubik",
-        "descricao": "Ubik é um dos cinco membros do God Hand, os governantes supremos da Mão de Deus. Ele é um ser astuto e manipulador, cujas habilidades incluem a distorção da realidade e a manipulação das mentes dos mortais. Ubik é um mestre em semear a discórdia e o caos, servindo como um agente da vontade dos deuses demoníacos."
+        "name": "Ubik",
+        "description": "Ubik é um dos cinco membros do God Hand, os governantes supremos da Mão de Deus. Ele é um ser astuto e manipulador, cujas habilidades incluem a distorção da realidade e a manipulação das mentes dos mortais. Ubik é um mestre em semear a discórdia e o caos, servindo como um agente da vontade dos deuses demoníacos."
     },
     {
         "id": 16,
-        "nome": "Conrad",
-        "descricao": "Conrad é um dos cinco membros do God Hand, os seres mais poderosos da Mão de Deus. Ele é um ser enigmático, cujas habilidades estão ligadas à escuridão e à manipulação do espaço-tempo. Conrad é um observador silencioso dos eventos que se desenrolam no mundo dos mortais, aguardando o momento certo para intervir e moldar o curso do destino."
+        "name": "Conrad",
+        "description": "Conrad é um dos cinco membros do God Hand, os seres mais poderosos da Mão de Deus. Ele é um ser enigmático, cujas habilidades estão ligadas à escuridão e à manipulação do espaço-tempo. Conrad é um observador silencioso dos eventos que se desenrolam no mundo dos mortais, aguardando o momento certo para intervir e moldar o curso do destino."
     },
     {
         "id": 17,
-        "nome": "Grunbeld",
-        "descricao": "Grunbeld é um poderoso Apóstolo, conhecido por sua força imensa e sua armadura invulnerável. Ele é um guerreiro leal à Mão de Deus, dedicado a espalhar o terror e a destruição em nome de seus mestres demoníacos. Sua presença imponente e sua ferocidade no campo de batalha o tornam um adversário temível para qualquer um que ouse desafiá-lo."
+        "name": "Grunbeld",
+        "description": "Grunbeld é um poderoso Apóstolo, conhecido por sua força imensa e sua armadura invulnerável. Ele é um guerreiro leal à Mão de Deus, dedicado a espalhar o terror e a destruição em name de seus mestres demoníacos. Sua presença imponente e sua ferocidade no campo de batalha o tornam um adversário temível para qualquer um que ouse desafiá-lo."
     },
     {
         "id": 18,
-        "nome": "Locus",
-        "descricao": "Locus é um Apóstolo de estatura nobre e presença majestosa, conhecido por sua devoção fanática à Mão de Deus. Ele é um guerreiro disciplinado e calculista, cujas habilidades em combate são igualadas apenas por sua lealdade inabalável aos seus mestres demoníacos. Locus é uma figura imponente no campo de batalha, inspirando temor e respeito em seus aliados e inimigos."
+        "name": "Locus",
+        "description": "Locus é um Apóstolo de estatura nobre e presença majestosa, conhecido por sua devoção fanática à Mão de Deus. Ele é um guerreiro disciplinado e calculista, cujas habilidades em combate são igualadas apenas por sua lealdade inabalável aos seus mestres demoníacos. Locus é uma figura imponente no campo de batalha, inspirando temor e respeito em seus aliados e inimigos."
     },
     {
         "id": 19,
-        "nome": "Rakshas",
-        "descricao": "Rakshas é um Apóstolo astuto e manipulador, conhecido por sua natureza traiçoeira e sua habilidade em esgueirar-se nas sombras. Ele é um espião habilidoso e assassino impiedoso, cujas façanhas incluem o uso de disfarces e enganos para alcançar seus objetivos. Rakshas é uma ameaça invisível, sempre à espreita nas sombras, esperando o momento certo para agir."
+        "name": "Rakshas",
+        "description": "Rakshas é um Apóstolo astuto e manipulador, conhecido por sua natureza traiçoeira e sua habilidade em esgueirar-se nas sombras. Ele é um espião habilidoso e assassino impiedoso, cujas façanhas incluem o uso de disfarces e enganos para alcançar seus objetivos. Rakshas é uma ameaça invisível, sempre à espreita nas sombras, esperando o momento certo para agir."
     },
     {
-        "id": 20,
-        "nome": "Zodd Humano",
-        "descricao": "Antes de se tornar o temível Nosferatu Zodd, ele era um guerreiro humano lendário, conhecido por sua força e bravura em batalha. Mesmo antes de se tornar um Apóstolo, Zodd era um adversário formidável, cujo nome era temido em todo o reino. Sua transformação em um demônio o torna ainda mais poderoso, mas sua essência guerreira permanece inalterada."
-    }
+        "id": 21,
+        "nome": "Nosferatu Zodd",
+        "descricao": "Nosferatu Zodd é um poderoso Apóstolo, conhecido como o 'Imortal'. Ele é um guerreiro feroz e selvagem, cujo único propósito é buscar desafios cada vez mais difíceis em combate. Apesar de sua natureza violenta, Zodd possui um código de honra próprio e respeita adversários dignos. Sua presença é temida e reverenciada pelos humanos e demônios."
+    }    
 ]
