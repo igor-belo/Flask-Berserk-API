@@ -21,17 +21,17 @@ A API será executada em "http://localhost:5000".
 
 ### Rotas Disponíveis
 
-* *GET/personagens:* Retorna uma lista com todos os personagens de Berserk.
-* *POST/personagens:* Adiciona um novo personagem à lista.
-* *GET/personagens/<id>:* Retorna os detalhes de um personagem específico pelo seu ID.
-* *PUT/personagens/<id>:* Atualiza os detalhes de um personagem existente pelo seu ID.
-* *DELETE/personagens/<id>:* Exclui um personagem pelo seu ID.
+* **GET/personagens:** Retorna uma lista com todos os personagens de Berserk.
+* **POST/personagens:** Adiciona um novo personagem à lista.
+* **GET/personagens/<id>:** Retorna os detalhes de um personagem específico pelo seu ID.
+* **PUT/personagens/<id>:** Atualiza os detalhes de um personagem existente pelo seu ID.
+* **DELETE/personagens/<id>:** Exclui um personagem pelo seu ID.
 
 ### Os dados dos personagens são representados em formato JSON com os seguintes campos:
 
-* id: ID único do personagem (inteiro)
-* nome: Nome do personagem (string)
-* descricao: Descrição do personagem (string)
+* **id:** ID único do personagem (inteiro)
+* **nome:** Nome do personagem (string)
+* **descricao:** Descrição do personagem (string)
 
 ### Exemplo de objeto JSON de um personagem:
 ```json
