@@ -28,9 +28,9 @@ A API será executada em "http://localhost:5000".
 
 ## Os dados dos personagens são representados em formato JSON com os seguintes campos:
 
-id: ID único do personagem (inteiro)
-nome: Nome do personagem (string)
-descricao: Descrição do personagem (string)
+* id: ID único do personagem (inteiro)
+* nome: Nome do personagem (string)
+* descricao: Descrição do personagem (string)
 
 ### Exemplo de objeto JSON de um personagem:
 ```
