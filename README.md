@@ -1,4 +1,5 @@
-﻿﻿## API de Personagens de Berserk
+
+## API de Personagens de Berserk
 
 Esta é uma API simples desenvolvida em Python usando o framework Flask. Ela permite visualizar, adicionar, atualizar e excluir informações sobre os personagens do mangá Berserk.
 
